@@ -2,9 +2,6 @@ Jogo do Mario em JavaScript
 Este é um jogo do Mario simples desenvolvido em JavaScript, CSS e HTML. Ele foi criado seguindo os passos apresentados no vídeo tutorial https://www.youtube.com/watch?v=r9buAwVBDhA&t=54s.
 
 Como Jogar
-Clone este repositório em sua máquina local:
-
-bash
 Copiar código
 git clone https://github.com/seu-usuario/jogo-do-mario.git
 Abra o arquivo index.html em seu navegador web preferido.
